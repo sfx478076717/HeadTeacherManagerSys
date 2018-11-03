@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1482746936 source:d:\软件作业\c实训作业\班主任管家系统\main.cpp
+	"first.h"
+	"menu_import.h"
+	"file.h"
+	"alter_scholarship.h"
+	"outport.h"
+	"HJ_CH.h"
+	"tongji_paixu.h"
+
+1479774243 d:\软件作业\c实训作业\班主任管家系统\sort_count.h
+
+1482807132 d:\软件作业\c实训作业\班主任管家系统\menu_import.h
+
+1482763104 d:\软件作业\c实训作业\班主任管家系统\alter_scholarship.h
+
+1482806277 d:\软件作业\c实训作业\班主任管家系统\first.h
+	"stdio.h"
+	"stdlib.h"
+	<conio.h>
+	"string.h"
+
+1480736410 d:\软件作业\c实训作业\班主任管家系统\menu.h
+
+1480736196 d:\软件作业\c实训作业\班主任管家系统\import.h
+
+1482750060 d:\软件作业\c实训作业\班主任管家系统\file.h
+
+1482736499 d:\软件作业\c实训作业\班主任管家系统\hj_ch.h
+
+1482807132 d:\软件作业\c实训作业\班主任管家系统\outport.h
+
+1482761315 d:\软件作业\c实训作业\班主任管家系统\tongji_paixu.h
+
